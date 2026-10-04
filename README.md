@@ -53,7 +53,7 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 
 [![GitHub Streak](https://wardcrazy-streak-stats.vercel.app/?user=wardcrazy01894&hide_border=true&theme=radical)](https://git.io/streak-stats)
 
-![wardcrazy01894's Top Languages](https://wardcrazy-github-stats.vercel.app/api/top-langs/?username=wardcrazy01894&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![wardcrazy01894's Top Languages](https://wardcrazy-github-stats.vercel.app/api/top-langs/?username=wardcrazy01894&theme=radical&show_icons=true&hide_border=true&layout=compact&hide=html)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=wardcrazy01894&label=Page+views&abbreviated=true)
 
