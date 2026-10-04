@@ -23,7 +23,7 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 | [RandomYoutubeLinkGenerator](https://github.com/wardcrazy01894/RandomYoutubeLinkGenerator) | A button that gives you a genuinely random YouTube video — uniform sampling, not a curated list. [Live](https://wardcrazy01894.github.io/RandomYoutubeLinkGenerator/) |
 | [SpicyDiscountSearcher](https://github.com/wardcrazy01894/SpicyDiscountSearcher) | Chrome/Brave extension that races corporate discount codes to find the cheapest rental car or hotel rate |
 | [LocalBusinessScanner](https://github.com/wardcrazy01894/LocalBusinessScanner) | Scans local businesses for web design leads — checks if they have a website and scores its quality |
-| [TeeTimeBooker](https://github.com/wardcrazy01894/TeeTimeBooker) | Automated tee time booker |
+| [TeeTimeBooker](https://github.com/wardcrazy01894/TeeTimeBooker) | Automated tee time booker: invite-only web app where users pick courses and time windows, and the bot books for everyone at the drop. Azure Container Apps + Cosmos. [Live](https://spicyteetimebooker.com) |
 | [82And0](https://github.com/wardcrazy01894/82And0) | Spin automation + analysis for 82-0.com: chasing the perfect 82-0 and the maybe-impossible 0-82 |
 
 ## 💻 Tech Stack
