@@ -55,7 +55,7 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 
 ![wardcrazy01894's Top Languages](https://wardcrazy-github-stats.vercel.app/api/top-langs/?username=wardcrazy01894&theme=radical&show_icons=true&hide_border=true&layout=compact&hide=html)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=wardcrazy01894&label=Page+views&abbreviated=true)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=wardcrazy01894.wardcrazy01894&left_text=Page%20views)
 
 ## 🌐 Socials
 
