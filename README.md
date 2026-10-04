@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is the account where I let [Claude Code](https://claude.ai/code) off the leash 🤖
+This is the account where [Claude Code](https://claude.ai/code) does the typing 🤖
 
 Check my 2026 commit heatmap 🙂 (yes, it really is that green)
 
@@ -19,9 +19,9 @@ Check my 2026 commit heatmap 🙂 (yes, it really is that green)
 
 | Project | What it is |
 | --- | --- |
-| [SpicyBettingSimulator](https://github.com/wardcrazy01894/SpicyBettingSimulator) | Fake-money NFL and college football betting simulator with real lines, odds and payouts. Cloudflare Workers + D1. [Live](https://spicybetting.wardcrazy01894.workers.dev) |
-| [YourSchoolAllStars](https://github.com/wardcrazy01894/YourSchoolAllStars) | Daily draft-your-school's-all-time-team game (40-0 / 16-0 style), one university at a time. Michigan first. [Live](https://wardcrazy01894.github.io/YourSchoolAllStars/) |
-| [KnowYourCity](https://github.com/wardcrazy01894/KnowYourCity) | Daily "where is it?" map-guessing game for local places, starting with St. Petersburg, FL. [Live](https://wardcrazy01894.github.io/KnowYourCity/) |
+| [SpicyBettingSimulator](https://github.com/wardcrazy01894/SpicyBettingSimulator) | Fake-money NFL, college football and MLB betting simulator with real lines, odds and payouts. Cloudflare Workers + D1. [Live](https://spicybetting.wardcrazy01894.workers.dev) |
+| [YourSchoolAllStars](https://github.com/wardcrazy01894/YourSchoolAllStars) | Daily draft-your-school's-all-time-team game (40-0 / 16-0 style), covering the universities my friends and I went to. Michigan first. [Live](https://wardcrazy01894.github.io/YourSchoolAllStars/) |
+| [KnowYourCity](https://github.com/wardcrazy01894/KnowYourCity) | Daily "where is it?" map-guessing game for local places in the cities I've lived in, starting with St. Petersburg, FL. [Live](https://wardcrazy01894.github.io/KnowYourCity/) |
 | [RandomYoutubeLinkGenerator](https://github.com/wardcrazy01894/RandomYoutubeLinkGenerator) | A button that gives you a genuinely random YouTube video — uniform sampling, not a curated list. [Live](https://wardcrazy01894.github.io/RandomYoutubeLinkGenerator/) |
 | [SpicyDiscountSearcher](https://github.com/wardcrazy01894/SpicyDiscountSearcher) | Chrome/Brave extension that races corporate discount codes to find the cheapest rental car or hotel rate |
 | [LocalBusinessScanner](https://github.com/wardcrazy01894/LocalBusinessScanner) | Scans local businesses for web design leads — checks if they have a website and scores its quality |
