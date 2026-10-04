@@ -2,8 +2,6 @@
 
 This is the account where [Claude Code](https://claude.ai/code) does the typing 🤖
 
-Check my 2026 commit heatmap 🙂 (yes, it really is that green)
-
 ## 💫 About Me
 
 - 👤 I'm [@alancast](https://github.com/alancast) — this is my second account, dedicated to Claude Code experiments
