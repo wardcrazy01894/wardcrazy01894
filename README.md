@@ -25,6 +25,7 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 | [LocalBusinessScanner](https://github.com/wardcrazy01894/LocalBusinessScanner) | Scans local businesses for web design leads — checks if they have a website and scores its quality |
 | [TeeTimeBooker](https://github.com/wardcrazy01894/TeeTimeBooker) | Automated tee time booker: invite-only web app where users pick courses and time windows, and the bot books for everyone at the drop. Azure Container Apps + Cosmos. [Live](https://spicyteetimebooker.com) |
 | [82And0](https://github.com/wardcrazy01894/82And0) | Spin automation + analysis for 82-0.com: chasing the perfect 82-0 and the maybe-impossible 0-82 |
+| [SpotifyLocalMigrator](https://github.com/wardcrazy01894/SpotifyLocalMigrator) | Rebuilds my decade-old iTunes "local files" Spotify playlists as real Spotify playlists — strict title/artist/length matching, every mismatch flagged for me to rule on, day by day within the API quota |
 
 ## 💻 Tech Stack
 
