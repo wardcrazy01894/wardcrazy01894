@@ -43,6 +43,7 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222?logo=github&logoColor=fff)](https://pages.github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/)
+[![Bicep](https://custom-icon-badges.demolab.com/badge/Bicep-0078D4?logo=bicep&logoColor=white)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](https://yaml.org/)
@@ -52,7 +53,7 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 
 ![wardcrazy01894's Stats](https://wardcrazy-github-stats.vercel.app/api?username=wardcrazy01894&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&show=all_time_contribs&hide=contribs)
 
-[![GitHub Streak](https://wardcrazy-streak-stats.vercel.app/?user=wardcrazy01894&hide_border=true&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://wardcrazy-streak-stats.vercel.app/?user=wardcrazy01894&hide_border=true&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![wardcrazy01894's Top Languages](https://wardcrazy-github-stats.vercel.app/api/top-langs/?username=wardcrazy01894&theme=radical&show_icons=true&hide_border=true&layout=compact&hide=html)
 
