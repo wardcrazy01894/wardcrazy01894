@@ -20,6 +20,7 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 | [SpicyBettingSimulator](https://github.com/wardcrazy01894/SpicyBettingSimulator) | Fake-money NFL, college football and MLB betting simulator with real lines, odds and payouts. Cloudflare Workers + D1. [Live](https://spicybetting.wardcrazy01894.workers.dev) |
 | [YourSchoolAllStars](https://github.com/wardcrazy01894/YourSchoolAllStars) | Daily draft-your-school's-all-time-team game (40-0 / 16-0 style), covering the universities my friends and I went to. Michigan first. [Live](https://wardcrazy01894.github.io/YourSchoolAllStars/) |
 | [KnowYourCity](https://github.com/wardcrazy01894/KnowYourCity) | Daily "where is it?" map-guessing game for local places in the cities I've lived in, starting with St. Petersburg, FL. [Live](https://knowyourcity.gg/) |
+| [CampusPinShowdown](https://github.com/wardcrazy01894/CampusPinShowdown) | Daily "where is that college town?" map-guessing game: drop a pin on a satellite map of the USA for 5 schools a day, with streaks, Wordle-style sharing and an anonymous leaderboard. React + Leaflet, $0 hosting. [Live](https://campuspinshowdown.com/) |
 | [RandomYoutubeLinkGenerator](https://github.com/wardcrazy01894/RandomYoutubeLinkGenerator) | A button that gives you a genuinely random YouTube video — uniform sampling, not a curated list. [Live](https://wardcrazy01894.github.io/RandomYoutubeLinkGenerator/) |
 | [SpicyDiscountSearcher](https://github.com/wardcrazy01894/SpicyDiscountSearcher) | Chrome/Brave extension that races corporate discount codes to find the cheapest rental car or hotel rate |
 | [LocalBusinessScanner](https://github.com/wardcrazy01894/LocalBusinessScanner) | Scans local businesses for web design leads — checks if they have a website and scores its quality |
@@ -36,7 +37,9 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=nodedotjs&logoColor=fff)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff)](https://leafletjs.com/)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflareworkers&logoColor=fff)](https://workers.cloudflare.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=fff)](https://github.com/features/actions)
