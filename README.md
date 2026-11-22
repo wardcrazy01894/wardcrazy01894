@@ -17,6 +17,7 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 
 | Project | What it is |
 | --- | --- |
+| [SpicyAlsSoftwareEmporium](https://github.com/wardcrazy01894/SpicyAlsSoftwareEmporium) | The front door: one page pointing at every game and project below, with a cover, a blurb and a Play button for each. Static site, $0 hosting. [Live](https://wardcrazy01894.github.io/SpicyAlsSoftwareEmporium/) |
 | [SpicyBettingSimulator](https://github.com/wardcrazy01894/SpicyBettingSimulator) | Fake-money NFL, college football and MLB betting simulator with real lines, odds and payouts. Cloudflare Workers + D1. [Live](https://spicybetting.wardcrazy01894.workers.dev) |
 | [YourSchoolAllStars](https://github.com/wardcrazy01894/YourSchoolAllStars) | Daily draft-your-school's-all-time-team game (40-0 / 16-0 style), covering the universities my friends and I went to. Michigan first. [Live](https://wardcrazy01894.github.io/YourSchoolAllStars/) |
 | [KnowYourCity](https://github.com/wardcrazy01894/KnowYourCity) | Daily "where is it?" map-guessing game for local places in the cities I've lived in, starting with St. Petersburg, FL. [Live](https://knowyourcity.gg/) |
