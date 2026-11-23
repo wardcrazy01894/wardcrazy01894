@@ -15,20 +15,38 @@ This is the account where [Claude Code](https://claude.ai/code) does the typing 
 
 ## 🧪 What's in here
 
-| Project | What it is |
-| --- | --- |
-| [SpicyAlsSoftwareEmporium](https://github.com/wardcrazy01894/SpicyAlsSoftwareEmporium) | The front door: one page pointing at every game and project below, with a cover, a blurb and a Play button for each. Static site, $0 hosting. [Live](https://wardcrazy01894.github.io/SpicyAlsSoftwareEmporium/) |
-| [SpicyBettingSimulator](https://github.com/wardcrazy01894/SpicyBettingSimulator) | Fake-money NFL, college football and MLB betting simulator with real lines, odds and payouts. Cloudflare Workers + D1. [Live](https://spicybetting.wardcrazy01894.workers.dev) |
-| [YourSchoolAllStars](https://github.com/wardcrazy01894/YourSchoolAllStars) | Daily draft-your-school's-all-time-team game (40-0 / 16-0 style), covering the universities my friends and I went to. Michigan first. [Live](https://wardcrazy01894.github.io/YourSchoolAllStars/) |
-| [KnowYourCity](https://github.com/wardcrazy01894/KnowYourCity) | Daily "where is it?" map-guessing game for local places in the cities I've lived in, starting with St. Petersburg, FL. [Live](https://knowyourcity.gg/) |
-| [CampusPinShowdown](https://github.com/wardcrazy01894/CampusPinShowdown) | Daily "where is that college town?" map-guessing game: drop a pin on a satellite map of the USA for 5 schools a day, with streaks, Wordle-style sharing and an anonymous leaderboard. React + Leaflet, $0 hosting. [Live](https://campuspinshowdown.com/) |
-| [WhereHePlay](https://github.com/wardcrazy01894/WhereHePlay) | Daily "where did he play in college?" trivia game: name the college of 5 NFL and NBA players a day from a photo, with hints, streaks, free play and a daily leaderboard. React + Cloudflare Workers, $0 hosting. [Live](https://whereheplay.com/) |
-| [RandomYoutubeLinkGenerator](https://github.com/wardcrazy01894/RandomYoutubeLinkGenerator) | A button that gives you a genuinely random YouTube video — uniform sampling, not a curated list. [Live](https://wardcrazy01894.github.io/RandomYoutubeLinkGenerator/) |
-| [SpicyDiscountSearcher](https://github.com/wardcrazy01894/SpicyDiscountSearcher) | Chrome/Brave extension that races corporate discount codes to find the cheapest rental car or hotel rate |
-| [LocalBusinessScanner](https://github.com/wardcrazy01894/LocalBusinessScanner) | Scans local businesses for web design leads — checks if they have a website and scores its quality |
-| [TeeTimeBooker](https://github.com/wardcrazy01894/TeeTimeBooker) | Automated tee time booker: invite-only web app where users pick courses and time windows, and the bot books for everyone at the drop. Azure Container Apps + Cosmos. [Live](https://spicyteetimebooker.com) |
-| [82And0](https://github.com/wardcrazy01894/82And0) | Spin automation + analysis for 82-0.com: chasing the perfect 82-0 and the maybe-impossible 0-82 |
-| [SpotifyLocalMigrator](https://github.com/wardcrazy01894/SpotifyLocalMigrator) | Rebuilds my decade-old iTunes "local files" Spotify playlists as real Spotify playlists — strict title/artist/length matching, every mismatch flagged for me to rule on, day by day within the API quota |
+<div align="center">
+
+[![Spicy Al's Software Emporium](https://spicyalssoftwareemporium.com/og-image.png)](https://spicyalssoftwareemporium.com/)
+
+### 🌶️ [spicyalssoftwareemporium.com](https://spicyalssoftwareemporium.com/)
+
+The front door: one page pointing at every game and project below, with a cover,
+a blurb and a Play button for each. Static site, $0 hosting.
+[source](https://github.com/wardcrazy01894/SpicyAlsSoftwareEmporium)
+
+</div>
+
+### 🎮 Games
+
+| | Game | What it is |
+| :-: | --- | --- |
+| [<img src="https://spicyalssoftwareemporium.com/covers/campuspin-showdown.jpg" width="200" alt="">](https://campuspinshowdown.com/) | **[CampusPin Showdown](https://campuspinshowdown.com/)**<br>Geography · daily<br>[source](https://github.com/wardcrazy01894/CampusPinShowdown) | "Where is that college town?" Drop a pin on a satellite map of the USA for 5 schools a day, with streaks, Wordle-style sharing and an anonymous leaderboard. React + Leaflet, $0 hosting. |
+| [<img src="https://spicyalssoftwareemporium.com/covers/whereheplay.jpg" width="200" alt="">](https://whereheplay.com/) | **[WhereHePlay](https://whereheplay.com/)**<br>Sports trivia · daily<br>[source](https://github.com/wardcrazy01894/WhereHePlay) | "Where did he play in college?" Name the college of 5 NFL and NBA players a day from a photo, with hints, streaks, free play and a daily leaderboard. React + Cloudflare Workers, $0 hosting. |
+| [<img src="https://spicyalssoftwareemporium.com/covers/know-your-city.jpg" width="200" alt="">](https://knowyourcity.gg/) | **[Know Your City](https://knowyourcity.gg/)**<br>Geography · daily<br>[source](https://github.com/wardcrazy01894/KnowYourCity) | "Where is it?" map-guessing game for local places in the cities I've lived in, starting with St. Petersburg, FL. |
+| [<img src="https://spicyalssoftwareemporium.com/covers/your-school-all-stars.jpg" width="200" alt="">](https://wardcrazy01894.github.io/YourSchoolAllStars/) | **[YourSchoolAllStars](https://wardcrazy01894.github.io/YourSchoolAllStars/)**<br>Sports draft · daily<br>[source](https://github.com/wardcrazy01894/YourSchoolAllStars) | Draft your school's all-time team (40-0 / 16-0 style), covering the universities my friends and I went to. Michigan first. |
+| [<img src="https://spicyalssoftwareemporium.com/covers/spicy-betting-simulator.jpg" width="200" alt="">](https://spicybetting.wardcrazy01894.workers.dev) | **[Spicy Betting Simulator](https://spicybetting.wardcrazy01894.workers.dev)**<br>Sportsbook, minus the money<br>[source](https://github.com/wardcrazy01894/SpicyBettingSimulator) | Fake-money NFL, college football and MLB betting simulator with real lines, odds and payouts. Cloudflare Workers + D1. |
+
+### 🧰 Everything else
+
+| | Project | What it is |
+| :-: | --- | --- |
+| 🎲 | **[RandomYoutubeLinkGenerator](https://github.com/wardcrazy01894/RandomYoutubeLinkGenerator)**<br>[Live](https://wardcrazy01894.github.io/RandomYoutubeLinkGenerator/) | A button that gives you a genuinely random YouTube video — uniform sampling, not a curated list. |
+| ⛳ | **[TeeTimeBooker](https://github.com/wardcrazy01894/TeeTimeBooker)**<br>[Live](https://spicyteetimebooker.com) | Automated tee time booker: invite-only web app where users pick courses and time windows, and the bot books for everyone at the drop. Azure Container Apps + Cosmos. |
+| 🏷️ | **[SpicyDiscountSearcher](https://github.com/wardcrazy01894/SpicyDiscountSearcher)** | Chrome/Brave extension that races corporate discount codes to find the cheapest rental car or hotel rate. |
+| 🏀 | **[82And0](https://github.com/wardcrazy01894/82And0)** | Spin automation + analysis for 82-0.com: chasing the perfect 82-0 and the maybe-impossible 0-82. |
+| 🔎 | **[LocalBusinessScanner](https://github.com/wardcrazy01894/LocalBusinessScanner)** | Scans local businesses for web design leads — checks if they have a website and scores its quality. |
+| 🎧 | **[SpotifyLocalMigrator](https://github.com/wardcrazy01894/SpotifyLocalMigrator)** | Rebuilds my decade-old iTunes "local files" Spotify playlists as real Spotify playlists — strict title/artist/length matching, every mismatch flagged for me to rule on, day by day within the API quota. |
 
 ## 💻 Tech Stack
 
